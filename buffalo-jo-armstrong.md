@@ -1,4 +1,7 @@
-<!-- TITLE: Buffalo Jo Armstrong -->
-<!-- SUBTITLE: A quick summary of Buffalo Jo Armstrong -->
+<!-- TITLE: "Buffalo" Jo Armstrong -->
+## Early Life
 
-# Header
+## Meeting the Crew
+
+-----
+## Meta
