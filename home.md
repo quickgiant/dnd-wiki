@@ -12,6 +12,19 @@ Spellboy was a founding member of the crew, but he died before we learned his se
 [Saccharomyces Cerevisiae](http://spellboyorig.in/saccharomyces-cerevisiae)
 [Spellboy (deceased)](http://spellboyorig.in/spellboy)
 ## Events
+[Session 1 - Introductions](http://spellboyorig.in/session-1-introductions)
+[Session 2 - The Ankhegs](http://spellboyorig.in/session-2-the-ankhegs)
+[Session 3 - The Death of Quentin and Sue](http://spellboyorig.in/session-3-the-death-of-quentin-and-sue)
+[Session 4 - The Magic Dealer](http://spellboyorig.in/session-4-the-magic-dealer)
+[Session 5 - The School and the Mountain](http://spellboyorig.in/session-5-the-school-and-the-mountain)
+[Session 6 - The Dungeon Under the Mountain](http://spellboyorig.in/session-6-the-dungeon-under-the-mountain)
+[Session 7 - Prince Rupert's Battlegrounds](http://spellboyorig.in/session-7-prince-ruperts-battlegrounds)
+[Session 8 - The Curse of the Pink Eyed Man](http://spellboyorig.in/session-8-the-curse-of-the-pink-eyed-man)
+[Session 9 - The City of Brightfalls](http://spellboyorig.in/session-9-the-city-of-brightfalls)
+[Session 10 - The Hostile Forest (Flashback)](http://spellboyorig.in/session-10-the-hostile-forest)
+[Session 11 - The Brawl in Brightfalls](http://spellboyorig.in/session-11-the-brawl-in-brightfalls)
+[Session 12 - Beneath Brightfalls](http://spellboyorig.in/session-12-beneath-brightfalls)
+[Session 13 - A Coup in Demacia](http://spellboyorig.in/session-13-a-coup-in-demacia)
 
 ## People
 
