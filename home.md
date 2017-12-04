@@ -33,45 +33,46 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 
 ## People
 [Quentin Burnshaw](http://spellboyorig.in/quentin-burnshaw)
-Sue Burnshaw
-Cloaked Figures
-Walter
-Darrell
-Sinclair
-Gutter, Pauly Putrid, Bloody Bruce, Sir Ellsworth, Sir Turnsbury, and Wolf
-Squire Jonathan
-Prince Rupert
-Sir Gerald
-The Man with the Pink Eyes
-Alfie
-Stewart, King of Brightfalls
-Marcus, Economic Advisor for Brightfalls
-Silas, The Archmage of Brightfalls
-The Coatl, Protector of Brightfalls
-Glik, Fleabert, and Stump
-The Elven Assassin
-Maggot
-The King of Demacia
-Hestio
+[Sue Burnshaw](http://spellboyorig.in/sue-burnshaw)
+[Cloaked Figures](http://spellboyorig.in/cloaked-figures)
+[Walter](http://spellboyorig.in/walter)
+[Darrell](http://spellboyorig.in/darrell)
+[Aldridge Sinclair](http://spellboyorig.in/aldridge-sinclair)
+[Gutter, Pauly Putrid, Bloody Bruce, Sir Ellsworth, Sir Turnsbury, and Wolf](http://spellboyorig.in/session-7-prince-ruperts-battlegrounds)
+[Squire Jonathan](http://spellboyorig.in/squire-jonathan)
+[Prince Rupert](http://spellboyorig.in/prince-rupert)
+[Sir Gerald](http://spellboyorig.in/sir-gerald)
+[The Man with the Pink Eyes](http://spellboyorig.in/pink-eyes)
+[Alfie](http://spellboyorig.in/alfie)
+[Stewart, King of Brightfalls](http://spellboyorig.in/stewart)
+[Marcus, Economic Advisor for Brightfalls](http://spellboyorig.in/marcus)
+[Silas, The Archmage of Brightfalls](http://spellboyorig.in/silas)
+[The Coatl, Protector of Brightfalls](http://spellboyorig.in/coatl)
+[Glik, Fleabert, and Stump](http://spellboyorig.in/session-10-the-hostile-forest)
+[The Elven Assassin](http://spellboyorig.in/elven-assassin)
+[Maggot](http://spellboyorig.in/session-13-a-coup-in-demacia)
+[The King of Demacia](http://spellboyorig.in/session-13-a-coup-in-demacia)
+[Hestio](http://spellboyorig.in/hestio)
 ## Places
 #### Plot Spots:
-The Ankheg Cave
-Tabidi Mountain
-The Tabidi Valleys
-Brightfalls
-The Temple
-The Island
-The Tree
+[The Ankheg Cave](http://spellboyorig.in/the-ankheg-cave)
+[Tabidi Mountain](http://spellboyorig.in/tabidi-mountain)
+[The Tabidi Valleys](http://spellboyorig.in/the-tabidi-valleys)
+[Brightfalls](http://spellboyorig.in/brightfalls)
+[The Temple](http://spellboyorig.in/the-temple)
+[The Island](http://spellboyorig.in/the-island)
+[The Tree](http://spellboyorig.in/the-tree)
 
 #### Other
-Quentin and Sue's Farm
-Sinclair's Mansion
-The Magic School
-Tabidi Mountain Dungeon
-Prince Rupert's Island
-Prince Rupert's Kingdom
-Demacia
+[Quentin and Sue's Farm](http://spellboyorig.in/quentin-and-sues-farm)
+[Aldridge's Mansion](http://spellboyorig.in/aldridges-mansion)
+[Whiteplains Institute of Wizardry](http://spellboyorig.in/whiteplains-institute-of-wizardry)
+[Tabidi Mountain Dungeon](http://spellboyorig.in/tabidi-mountain-dungeon)
+[Prince Rupert's Island](http://spellboyorig.in/prince-ruperts-island)
+[Demacia](http://spellboyorig.in/demacia)
 ## Things
-Spell Boy's Notes
-The Tomes
-The Boy Baton
+[Spell Boy's Notes](http://spellboyorig.in/spell-boys-notes)
+[The Tomes](http://spellboyorig.in/the-tomes)
+[The Boy Baton](http://spellboyorig.in/the-boy-baton)
+[Pink Eye's Amulet](http://spellboyorig.in/pink-eyes-amulet)
+[The Elven Assassins' Stuff](http://spellboyorig.in/the-elven-assassins-stuff)
