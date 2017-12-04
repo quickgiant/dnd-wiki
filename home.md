@@ -2,7 +2,7 @@
 <!-- SUBTITLE: A wiki for the D&D Dicks from Dix -->
 
 # Home
-![Homeimage](/uploads/homeimage.png "Homeimage")
+![Wikihome](/uploads/wikihome.png "Wikihome")
 Spellboy was a founding member of the crew, but he died before we learned his secrets. Who was he?
 ## The Crew
 ["Buffalo" Jo Armstrong](http://spellboyorig.in/buffalo-jo-armstrong)
