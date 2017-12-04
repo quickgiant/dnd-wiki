@@ -1,5 +1,5 @@
 <!-- TITLE: "Buffalo" Jo Armstrong -->
-<img align="right" src="/uploads/buffalojoarmstrong.png" style="margin:5%;">
+![Buffalojoarmstrong](/uploads/buffalojoarmstrong.png "Buffalojoarmstrong")
 
 "Buffalo" Jo Armstrong is a half-orc warlock. A member of the Tabidi tribe, Jo left her ancestral homeland after her village was destroyed, eventually joining the others in their search for answers about [Spell Boy's](http://spellboyorig.in/spellboy) mysterious past.
 
