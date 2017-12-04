@@ -6,7 +6,7 @@
 Spellboy was a founding member of the crew, but he died before we learned his secrets. Who was he?
 
 ## How to use this wiki
-Articles in this wiki use markdown for formatting. [Here's a nice little guide if you aren't familiar with it.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). The editor view in the wiki will get you pretty far, but for stuff like links and tables, you'll need to fall back to that guide.
+Articles in this wiki use markdown for formatting. [Here's a nice little guide if you aren't familiar with it.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) The editor view in the wiki will get you pretty far, but for stuff like links and tables, you'll need to fall back to that guide.
 
 All the articles and images in the wiki are stored in a git repo. If you want to edit that stuff directly, it's over [here](https://github.com/quickgiant/dnd-wiki).
 ## The Crew
