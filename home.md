@@ -32,7 +32,46 @@ All the article and images in the wiki are stored in a git repo. If you want to 
 [Session 13 - A Coup in Demacia](http://spellboyorig.in/session-13-a-coup-in-demacia)
 
 ## People
-
+Quentin Burnshaw
+Sue Burnshaw
+Cloaked Figures
+Walter
+Darrell
+Sinclair
+Gutter, Pauly Putrid, Bloody Bruce, Sir Ellsworth, Sir Turnsbury, and Wolf
+Squire Jonathan
+Prince Rupert
+Sir Gerald
+The Man with the Pink Eyes
+Alfie
+Stewart, King of Brightfalls
+Marcus, Economic Advisor for Brightfalls
+Silas, The Archmage of Brightfalls
+The Coatl, Protector of Brightfalls
+Glik, Fleabert, and Stump
+The Elven Assassin
+Maggot
+The King of Demacia
+Hestio
 ## Places
+#### Plot Spots:
+The Ankheg Cave
+Tabidi Mountain
+The Tabidi Valleys
+Brightfalls
+The Temple
+The Island
+The Tree
 
+#### Other
+Quentin and Sue's Farm
+Sinclair's Mansion
+The Magic School
+Tabidi Mountain Dungeon
+Prince Rupert's Island
+Prince Rupert's Kingdom
+Demacia
 ## Things
+Spell Boy's Notes
+The Tomes
+The Boy Baton
