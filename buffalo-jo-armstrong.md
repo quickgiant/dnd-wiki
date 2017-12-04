@@ -12,7 +12,7 @@ After some years, a tornado hit the Armstrongs' region, leveling her mother's ra
 
 -----
 ## Meta
-|:-----:|-----:|
+|:--:|--:|
 | STR  |   14|
 | DEX  |   15|
 | CON |     8|
