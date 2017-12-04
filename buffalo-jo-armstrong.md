@@ -5,20 +5,20 @@
 
 Jo's familiar is [Geronimo](http://spellboyorig.in/geronimo).
 
-## Early Life
+# Early Life
 Jo was born in near the center of the continent, near [Tabidi Mountain](http://spellboyorig.in/tabidi-mountian), to a human mother and an orc father. She grew up wrassling cattle on a her mother's family ranch. Her rough and tumble upbringing on the ranch made her a natural fighter. Due to her human upbringing, for much of her life, Jo knew little of her father's tribe's traditions and magical associations.
 
 After some years, a tornado hit the Armstrongs' region, leveling her mother's ranch and laying waste to her father's ancestral lands. Both Jo's mother and father were killed in the disaster. After her father's death, Jo became a vessel for The Great Old One, a mysterious diety who had a strong association to her father's tribe. Amidst the destruction, Jo was forced to her homeland behind, learning about her mystical orc heritage and her newfound magical powers along the way.
 
-## Adventuring Career
+# Adventuring Career
 
 -----
-## Meta
-#### General Info
+# Meta
+## General Info
 Level 3 Warlock/Level 1 Barbarian
 Alignment: Neutral
 
-#### Selected Stats
+## Selected Stats
 | Ability | Value |
 |:-------:|-------:|
 | STR    |        14|
@@ -30,7 +30,7 @@ Alignment: Neutral
 Armor Class: 17
 Hit Points: 41
 
-#### Weapons/Spells
+## Weapons/Spells
 [Spear](https://roll20.net/compendium/dnd5e/Spear#h-Spear)
 [Shortbow](https://roll20.net/compendium/dnd5e/Shortbow#h-Shortbow)
 [Handaxe (x2)](https://roll20.net/compendium/dnd5e/Handaxe#h-Handaxe)
