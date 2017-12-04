@@ -32,7 +32,7 @@ All the article and images in the wiki are stored in a git repo. If you want to 
 [Session 13 - A Coup in Demacia](http://spellboyorig.in/session-13-a-coup-in-demacia)
 
 ## People
-Quentin Burnshaw
+[Quentin Burnshaw](http://spellboyorig.in/quentin-burnshaw)
 Sue Burnshaw
 Cloaked Figures
 Walter
