@@ -72,6 +72,7 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [Demacia](http://spellboyorig.in/demacia)
 ## Things
 [Spell Boy's Notes](http://spellboyorig.in/spell-boys-notes)
+[The Map from the Ankheg Cave](http://spellboyorig.in/ankheg-cave-map)
 [The Tomes](http://spellboyorig.in/the-tomes)
 [The Boy Baton](http://spellboyorig.in/the-boy-baton)
 [Pink Eye's Amulet](http://spellboyorig.in/pink-eyes-amulet)
