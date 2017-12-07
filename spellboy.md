@@ -21,6 +21,7 @@ The discovery of [a mysterious map](http://spellboyorig.in/create/ankheg-cave-ma
 Sinister [cloaked figures](http://spellboyorig.in/cloaked-figures) have been seen throughout the land. In at least one instance, they carried a drawing of Spellboy.
 
 The mysterious language in Spellboy's notes is the same as the one found in [the tomes](http://spellboyorig.in/the-tomes). This language appears to be tied to magic that warps space itself.
+
 -----
 # Meta
 Spellboy's general backstory is known the players. 
