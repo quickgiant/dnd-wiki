@@ -1,11 +1,10 @@
 <!-- TITLE: Spellboy -->
 <!-- SUBTITLE: Rest in peace... -->
-
-
+![Spell Boy](/uploads/spell-boy.png "Spell Boy")
 Spellboy was a founding member of the crew. He left his drifter life behind, hoping that he would find answers. His light was extinguished before he could find closure.
 # Early Life
 Spellboy awoke in the ruins of tower surrounded by strange notes. He couldn't remember anything -- not even his own name. He made a life for himself digging in the city's scrap piles, finding just enough to survive. In time, he found that he had a natural ability with magic and named himself Spellboy.
-
+![Digging For Scraps](/uploads/digging-for-scraps.png "Digging For Scraps")
 Knowing he was unusual, Spellboy embarked on a quest to find out who he was and why he had these abilities.
 # Joining the Crew
 Spellboy met the crew after responding to a job posting from [Quentin Burnshaw](http://spellboyorig.in/quentin-burnshaw). Suspecting that the group that showed up would not be up to the task, Quentin hosted a [competition between the respondents](http://spellboyorig.in/session-1-introductions). Intimidated by the other fighters, Spellboy slipped away and hid in a mill tower. When all but one contestant remained, Spellboy unleased his magical abilities, winning the competition.
