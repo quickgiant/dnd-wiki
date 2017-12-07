@@ -1,8 +1,8 @@
 <!-- TITLE: Spellboy -->
 <!-- SUBTITLE: Rest in peace... -->
 
-Spellboy was a founding member of the crew. He left his drifter life behind, hoping that he would find answers. His light was extinguished before he could find closure.
 
+Spellboy was a founding member of the crew. He left his drifter life behind, hoping that he would find answers. His light was extinguished before he could find closure.
 # Early Life
 Spellboy awoke in the ruins of tower surrounded by strange notes. He couldn't remember anything -- not even his own name. He made a life for himself digging in the city's scrap piles, finding just enough to survive. In time, he found that he had a natural ability with magic and named himself Spellboy.
 
