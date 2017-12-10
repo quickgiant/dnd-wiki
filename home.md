@@ -36,7 +36,7 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [Sue Burnshaw](http://spellboyorig.in/sue-burnshaw)
 [Cloaked Figures](http://spellboyorig.in/cloaked-figures)
 [Walter](http://spellboyorig.in/walter)
-[Darrell](http://spellboyorig.in/darrell)
+[Darrell Burnshaw](http://spellboyorig.in/darrell-burnshaw)
 [Aldridge Sinclair](http://spellboyorig.in/aldridge-sinclair)
 [Gutter, Pauly Putrid, Bloody Bruce, Sir Ellsworth, Sir Turnsbury, and Wolf](http://spellboyorig.in/session-7-prince-ruperts-battlegrounds)
 [Squire Jonathan](http://spellboyorig.in/squire-jonathan)
