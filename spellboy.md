@@ -25,6 +25,7 @@ The mysterious language in Spellboy's notes is the same as the one found in [the
 -----
 # Meta
 ![Keeping Warm](/uploads/keeping-warm.png "Keeping Warm"){.align-center}
+
 Spellboy's general backstory is known the players. 
 
 There was once powerful wizard. As he grew old, he began to fear death. He sought eternal life so he could continue his studies and grow more powerful. He spent his final years developing a spell that would make him young again. He grew greedy however, and tried to cast the spell on himself too early. The result was Spellboy. He went back too far -- a boy, not a young man -- and he lost the very knowledge he was trying to protect.
