@@ -16,7 +16,7 @@ After proving their worth, Spellboy and the crew went on to [kill the ankhegs](h
 
 After dispatching the ankheg hatchlings, the newly formed to crew attempted to revive Spellboy, but it was too late. [Danth](http://spellboyorig.in/danth-goldentoe) picked up Spellboy's notes, hoping to uncover the answers Spellboy never found.
 
-The discovery of [a mysterious map](http://spellboyorig.in/create/ankheg-cave-map) made the mystery deeper. It contained similar symbols to one's in Spellboy's notes.
+The discovery of [a mysterious map](http://spellboyorig.in/ankheg-cave-map) made the mystery deeper. It contained similar symbols to one's in Spellboy's notes.
 # Legacy
 Sinister [cloaked figures](http://spellboyorig.in/cloaked-figures) have been seen throughout the land. In at least one instance, they carried a drawing of Spellboy.
 
