@@ -10,6 +10,6 @@ The cloaked figures practice a strange type of magic that warps space and time. 
 
 Before meeting the crew, [Daruka](http://spellboyorig.in/daruka) was tracking a small group of these men.  [After killing them](http://spellboyorig.in/session-4-the-magic-dealer), it was discovered that they carried a drawing of Spellboy.
 
-[Walter](http://spellboyorig.in/walter) and [Darrell](http://spellboyorig.in/darrell-burnshaw) had an encounter with these men while researching the tomes. After finding a tome in the [Tabidi Valleys](http://spellboyorig.in/the-tabidi-valleys), they were attacked by a group of cloaked figures. Darrell was killed in the attack. Walter narrowly escaped through the Ethereal Plane.
+[Walter](http://spellboyorig.in/walter) and [Darrell](http://spellboyorig.in/darrell-burnshaw) had an encounter with these men while researching the tomes. After finding a tome in the [Tabidi Valleys](http://spellboyorig.in/the-tabidi-valleys), they were attacked by a group of cloaked figures. Darrell was killed in the attack. Walter narrowly escaped through the Aethereal Plane.
 
 The cloaked men visited [Brightfalls](http://spellboyorig.in/brightfalls) six months before the crew arrived. They were responsible for killing [King Stewart](http://spellboyorig.in/stewart), incapacitating the [city's guardian](http://spellboyorig.in/coatl), and stealing the  Brightfalls tome.
