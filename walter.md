@@ -1,8 +1,6 @@
 <!-- TITLE: Walter -->
 <!-- SUBTITLE: A professor of magic -->
-|![02 Walters Office](/uploads/02-walters-office.png "02 Walters Office")|
-|:---:|
-|Walter working in his office|{.align-center}
+![02 Walters Office](/uploads/02-walters-office.png "02 Walters Office"){.align-center}
 
 Walter is professor at the [Whiteplains Institute of Wizardry](http://spellboyorig.in/whiteplains-institute-of-wizardry). His knowledge of [the tomes](http://spellboyorig.in/the-tomes) and interaction with the [cloaked figures](http://spellboyorig.in/cloaked-figures) make him a useful source of information.
 # Expedition to the Tabidi Valleys
