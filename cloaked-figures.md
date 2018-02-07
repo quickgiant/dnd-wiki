@@ -12,4 +12,4 @@ Before meeting the crew, [Daruka](http://spellboyorig.in/daruka) was tracking a 
 
 [Walter](http://spellboyorig.in/walter) and [Darrell](http://spellboyorig.in/darrell-burnshaw) had an encounter with these men while researching the tomes. After finding a tome in the [Tabidi Valleys](http://spellboyorig.in/the-tabidi-valleys), they were attacked by a group of cloaked figures. Darrell was killed in the attack. Walter narrowly escaped through the Aethereal Plane.
 
-The cloaked men visited [Brightfalls](http://spellboyorig.in/brightfalls) six months before the crew arrived. They were responsible for killing [King Rufus](http://spellboyorig.in/stewart), incapacitating the [city's guardian](http://spellboyorig.in/coatl), and stealing the  Brightfalls tome.
+The cloaked men visited [Brightfalls](http://spellboyorig.in/brightfalls) six months before the crew arrived. They were responsible for killing [King Rufus](http://spellboyorig.in/rufus), incapacitating the [city's guardian](http://spellboyorig.in/coatl), and stealing the  Brightfalls tome.
