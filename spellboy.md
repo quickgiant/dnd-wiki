@@ -1,9 +1,9 @@
 <!-- TITLE: Spellboy -->
 <!-- SUBTITLE: Rest in peace... -->
-![Spell Boy](/uploads/spell-boy.png "Spell Boy")
+![Spell Boy](/uploads/spell-boy.png "Spell Boy"){.align-center}
 Spellboy was a founding member of the crew. He left his drifter life behind, hoping that he would find answers. His light was extinguished before he could find closure.
 # Early Life
-![Digging For Scraps](/uploads/digging-for-scraps.png "Digging For Scraps")
+![Digging For Scraps](/uploads/digging-for-scraps.png "Digging For Scraps"){.align-center}
 Spellboy awoke in the ruins of tower surrounded by strange notes. He couldn't remember anything -- not even his own name. He made a life for himself digging in the city's scrap piles, finding just enough to survive. In time, he found that he had a natural ability with magic and named himself Spellboy.
 
 Knowing he was unusual, Spellboy embarked on a quest to find out who he was and why he had these abilities.
@@ -24,7 +24,7 @@ The mysterious language in Spellboy's notes is the same as the one found in [the
 
 -----
 # Meta
-![Keeping Warm](/uploads/keeping-warm.png "Keeping Warm")
+![Keeping Warm](/uploads/keeping-warm.png "Keeping Warm"){.align-center}
 Spellboy's general backstory is known the players. 
 
 There was once powerful wizard. As he grew old, he began to fear death. He sought eternal life so he could continue his studies and grow more powerful. He spent his final years developing a spell that would make him young again. He grew greedy however, and tried to cast the spell on himself too early. The result was Spellboy. He went back too far -- a boy, not a young man -- and he lost the very knowledge he was trying to protect.
