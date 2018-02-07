@@ -47,7 +47,7 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [King Rufus of Brightfalls](http://spellboyorig.in/rufus)
 [Marcus, Economic Advisor for Brightfalls](http://spellboyorig.in/marcus)
 [Silas, The Archmage of Brightfalls](http://spellboyorig.in/silas)
-[The Coatl, Protector of Brightfalls](http://spellboyorig.in/coatl)
+[The Couatl, Guardian of Brightfalls](http://spellboyorig.in/couatl)
 [Glik, Fleabert, and Stump](http://spellboyorig.in/session-10-the-hostile-forest)
 [The Elven Assassin](http://spellboyorig.in/elven-assassin)
 [Maggot](http://spellboyorig.in/session-13-a-coup-in-demacia)
