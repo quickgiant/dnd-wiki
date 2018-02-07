@@ -1,7 +1,6 @@
 <!-- TITLE: Walter -->
 <!-- SUBTITLE: A professor of magic -->
-![Buffalojoarmstrong](/uploads/walter.png "Buffalojoarmstrong")
-
+![Walter](/uploads/walter "Walter")
 Walter is professor at the [Whiteplains Institute of Wizardry](http://spellboyorig.in/whiteplains-institute-of-wizardry). His knowledge of [the tomes](http://spellboyorig.in/the-tomes) and interaction with the [cloaked figures](http://spellboyorig.in/cloaked-figures) make him a useful source of information.
 # Expedition to the Tabidi Valleys
 Walter's research in the School of Aetheria at the the [Whiteplains Institute of Wizardry](http://spellboyorig.in/whiteplains-institute-of-wizardry) took him on an expedition to the [Tabidi Valleys](http://spellboyorig.in/the-tabidi-valleys). On this expedtion, Walter (along with his student [Darrell Burnshaw](http://spellboyorig.in/darrell-burnshaw)) discovered a [mysterious tome](http://spellboyorig.in/the-tomes) in an unknown language.
