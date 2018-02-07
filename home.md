@@ -44,14 +44,14 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [Sir Gerald](http://spellboyorig.in/sir-gerald)
 [The Man with the Pink Eyes](http://spellboyorig.in/pink-eyes)
 [Alfie](http://spellboyorig.in/alfie)
-[Stewart, King of Brightfalls](http://spellboyorig.in/stewart)
+[King Rufus of Brightfalls](http://spellboyorig.in/rufus)
 [Marcus, Economic Advisor for Brightfalls](http://spellboyorig.in/marcus)
 [Silas, The Archmage of Brightfalls](http://spellboyorig.in/silas)
 [The Coatl, Protector of Brightfalls](http://spellboyorig.in/coatl)
 [Glik, Fleabert, and Stump](http://spellboyorig.in/session-10-the-hostile-forest)
 [The Elven Assassin](http://spellboyorig.in/elven-assassin)
 [Maggot](http://spellboyorig.in/session-13-a-coup-in-demacia)
-[The King of Demacia](http://spellboyorig.in/session-13-a-coup-in-demacia)
+[The King Stewart of Demacia](http://spellboyorig.in/stewart)
 [Hestio](http://spellboyorig.in/hestio)
 ## Places
 #### Plot Spots:
