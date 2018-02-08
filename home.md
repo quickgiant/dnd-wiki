@@ -30,14 +30,15 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [Session 11 - The Brawl in Brightfalls](http://spellboyorig.in/session-11-the-brawl-in-brightfalls)
 [Session 12 - Beneath Brightfalls](http://spellboyorig.in/session-12-beneath-brightfalls)
 [Session 13 - A Coup in Demacia](http://spellboyorig.in/session-13-a-coup-in-demacia)
+[Session 14 - Midwinter Merryment for All!](http://spellboyorig.in/session-13-midwinter-merryment-for-all)
 
 ## People
 [Quentin Burnshaw](http://spellboyorig.in/quentin-burnshaw)
 [Sue Burnshaw](http://spellboyorig.in/sue-burnshaw)
 [Cloaked Figures](http://spellboyorig.in/cloaked-figures)
-[Walter](http://spellboyorig.in/walter)
-[Darrell Burnshaw](http://spellboyorig.in/darrell-burnshaw)
 [Aldridge Sinclair](http://spellboyorig.in/aldridge-sinclair)
+[Darrell Burnshaw](http://spellboyorig.in/darrell-burnshaw)
+[Walter](http://spellboyorig.in/walter)
 [Gutter, Pauly Putrid, Bloody Bruce, Sir Ellsworth, Sir Turnsbury, and Wolf](http://spellboyorig.in/session-7-prince-ruperts-battlegrounds)
 [Squire Jonathan](http://spellboyorig.in/squire-jonathan)
 [Prince Rupert](http://spellboyorig.in/prince-rupert)
@@ -53,6 +54,8 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [Maggot](http://spellboyorig.in/session-13-a-coup-in-demacia)
 [The King Stewart of Demacia](http://spellboyorig.in/stewart)
 [Hestio](http://spellboyorig.in/hestio)
+[Residents of Evergreen Village](http://spellboyorig.in/residents-of-evergreen-village)
+[The Spirit of Midwinter](http://spellboyorig.in/the-spirit-of-midwinter)
 ## Places
 #### Plot Spots:
 [The Ankheg Cave](http://spellboyorig.in/the-ankheg-cave)
@@ -70,6 +73,7 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [Tabidi Mountain Dungeon](http://spellboyorig.in/tabidi-mountain-dungeon)
 [Prince Rupert's Island](http://spellboyorig.in/prince-ruperts-island)
 [Demacia](http://spellboyorig.in/demacia)
+[Evergreen Village](http://spellboyorig.in/evergreen-village)
 ## Things
 [Spellboy's Notes](http://spellboyorig.in/spellboys-notes)
 [The Map from the Ankheg Cave](http://spellboyorig.in/ankheg-cave-map)
@@ -77,3 +81,4 @@ All the articles and images in the wiki are stored in a git repo. If you want to
 [The Boy Baton](http://spellboyorig.in/the-boy-baton)
 [Pink Eye's Amulet](http://spellboyorig.in/pink-eyes-amulet)
 [The Elven Assassins' Stuff](http://spellboyorig.in/the-elven-assassins-stuff)
+[Midwinter](http://spellboyorig.in/midwinter)
