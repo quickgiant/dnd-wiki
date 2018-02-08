@@ -1,9 +1,7 @@
 <!-- TITLE: Darrell Burnshaw -->
 <!-- SUBTITLE: A traveling scholar -->
 
-Darrell Burnshaw was a wizard. At [Whiteplains Institute of Wizardry](http://spellboyorig.in/whiteplains-institute-of-wizardry), Darrell studied in the School of Aetheria with [Walter](http://spellboyorig.in/walter).
-
-He was the brother of [Quentin Burnshaw](http://spellboyorig.in/quentin-burnshaw).
+Darrell Burnshaw was a wizard. At [Whiteplains Institute of Wizardry](http://spellboyorig.in/whiteplains-institute-of-wizardry), Darrell studied in the School of Aetheria with [Walter](http://spellboyorig.in/walter). He was the brother of [Quentin Burnshaw](http://spellboyorig.in/quentin-burnshaw).
 # Research
 Before he began his research with Walter, Darrell visited Brightfalls. While investigating the dungeon beneath the city, Darrell received a tome and map from the [Guardian of Brightfalls](http://spellboyorig.in/create/couatl). On his return to Whiteplains, Darrell showed the tome to Walter, who took an interest in its strange language.
 
