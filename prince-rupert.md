@@ -7,4 +7,4 @@ Rupert enjoys organizing violent spectacles, ranging from large-scale battles to
 
 His coat-of-arms is a golden badger. His bodyguard [Sir Gerald](http://spellboyorig.in/sir-gerald) keeps him safe.
 # Birthday Party
-For his birthday partry, Rupert staged [Prince Rupert's Island Games](). Emerging victorious, the crew got to claim one of this brithday presents. Rupert wanted it though, so he took it.
+For his birthday partry, Rupert staged [Prince Rupert's Island Games](http://spellboyorig.in/session-7-prince-ruperts-island-games). Emerging victorious, the crew got to claim one of this brithday presents. Rupert wanted it though, so he took it.
